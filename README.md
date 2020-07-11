@@ -3,7 +3,7 @@
 The file uploaded with .ipynb extension can be opened with jupyter notebook of anaconda navigator steps to upload the assignment file 
 1.Download the file
 
-2.copy thr file
+2.copy the file
 
 3.Go to Current working directory of jupyter notebook
 
