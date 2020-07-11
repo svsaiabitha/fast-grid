@@ -6,7 +6,7 @@ The file uploaded with .ipynb extension can be opened with jupyter notebook of a
 3.Go to Current working directory of jupyter notebook
 4.paste the file there
 
-#To get the current Working Directory of Jupyter notebook
+##To get the current Working Directory of Jupyter notebook
 
 import os
 
