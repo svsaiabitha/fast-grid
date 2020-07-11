@@ -15,6 +15,6 @@ import os
 
 os.getcwd() ## this will show you the cwd path
 
-Note:if you are unable to open the ipynb file then please check PDF file
+
 
 
